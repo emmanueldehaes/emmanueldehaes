@@ -1,16 +1,25 @@
-### Hi there 👋
+### Emmanuel De Haes
+Passionate about creating web pages for years, I develop back-end and front-end websites and designs adapted to your company's needs and image.
 
 <!--
 **emmanueldehaes/emmanueldehaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+Actually:
+
+- ⚡ I’m currently working on a health website
+- 🌱 I help brands develop in the digital world.
+- 📫 How to reach me: [Email], [webiste] or [LinkedIn].
+
+### My daily routine :
+
+```mermaid
+  graph TD;
+      Code-->Eat;
+      Eat-->Sleep;
+      Sleep-->Code;
+```
+
+[Email]: contact@emmanueldehaes.com
+[webiste]: https://emmanueldehaes.com/
+[LinkedIn]: https://www.linkedin.com/in/emmanueldehaes/
