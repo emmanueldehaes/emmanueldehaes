@@ -15,9 +15,9 @@ Actually:
 
 ```mermaid
   graph TD;
-      Code-->Eat;
-      Eat-->Sleep;
-      Sleep-->Code;
+      Working-->Eating;
+      Eating-->Sleeping;
+      Sleeping-->Working;
 ```
 
 [Email]: contact@emmanueldehaes.com
