@@ -1,5 +1,5 @@
 ### Emmanuel De Haes
-Passionate about creating web pages for years, I develop back-end and front-end websites and designs adapted to your company's needs and image.
+Passionate about creating web pages for years, I develop back-end and front-end websites adapted to your company's needs and image.
 
 <!--
 **emmanueldehaes/emmanueldehaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,7 +7,7 @@ Passionate about creating web pages for years, I develop back-end and front-end 
 
 Actually:
 
-- ⚡ I’m currently working on a health website
+- ⚡ I'm currently CEO of Gloweste.
 - 🌱 I help brands develop in the digital world.
 - 📫 How to reach me: [Email], [webiste] or [LinkedIn].
 
