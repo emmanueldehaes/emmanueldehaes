@@ -7,7 +7,7 @@ Passionate about creating web pages for years, I develop back-end and front-end 
 
 Actually:
 
-- ⚡ I'm currently CEO of Gloweste.
+- ⚡ I'm currently CEO of Gloweste & Das Games.
 - 🌱 I help brands develop in the digital world.
 - 📫 How to reach me: [Email], [webiste] or [LinkedIn].
 
