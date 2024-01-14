@@ -7,7 +7,7 @@ Passionate about creating web pages for years, i develop back-end and front-end 
 
 Actually:
 
-- ⚡ I'm currently CEO of Gloweste & Rixel Studio.
+- ⚡ I'm currently CEO of [Gloweste] & [Rixel Studio].
 - 🌱 I help brands develop in the digital world.
 - 📫 How to reach me: [Email], [webiste] or [LinkedIn].
 
@@ -23,3 +23,5 @@ Actually:
 [Email]: contact@emmanueldehaes.com
 [webiste]: https://emmanueldehaes.com/
 [LinkedIn]: https://www.linkedin.com/in/emmanueldehaes/
+[Gloweste]: https://www.gloweste.com/
+[Rixel Studio]: https://rixelstudio.com/
