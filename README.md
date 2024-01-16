@@ -9,7 +9,7 @@ Actually:
 
 - ⚡ I'm currently CEO of [Gloweste] & [Rixel Studio].
 - 🌱 I help brands develop in the digital world.
-- 📫 How to reach me: [Email], [webiste] or [LinkedIn].
+- 📫 How to reach me: Email, [webiste] or [LinkedIn].
 
 ### My daily routine :
 
@@ -20,7 +20,6 @@ Actually:
       Sleeping-->Working;
 ```
 
-[Email]: contact@emmanueldehaes.com
 [webiste]: https://emmanueldehaes.com/
 [LinkedIn]: https://www.linkedin.com/in/emmanueldehaes/
 [Gloweste]: https://www.gloweste.com/
