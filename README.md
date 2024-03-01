@@ -7,7 +7,7 @@ Passionate about creating web pages for years, i develop back-end and front-end 
 
 Actually:
 
-- ⚡ I'm currently CEO of [Gloweste] & [Rixel Studio].
+- ⚡ I'm currently CEO of [Gloweste].
 - 🌱 I help brands develop in the digital world.
 - 📫 How to reach me: Email, [webiste] or [LinkedIn].
 
